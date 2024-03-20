@@ -1,0 +1,19 @@
+.thank-you-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background: linear-gradient(to bottom, #3b2992df, #f3f3f30c); /* Linear gradient background */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    position:relative;
+    top:315px;
+  }
+  
+  .thank-you-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: white; /* Text color */
+  }
+  
